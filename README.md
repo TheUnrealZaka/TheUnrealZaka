@@ -31,7 +31,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 📈 my github stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamdaoui73&layout=compact&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamdaoui3&layout=compact&theme=dark"></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhamdaoui73&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 
