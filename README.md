@@ -35,5 +35,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhamdaoui73&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 
-<img src="https://lanyard-profile-readme.vercel.app/api/816307367011942431?animated=true" align="left" height="205">
+<div align="left">
+  <a href="https://discord.com/users/816307367011942431">
+    <img src="https://lanyard-profile-readme.vercel.app/api/816307367011942431?animated=true" align="left" height="205">
+  </a>
+</div>
 
