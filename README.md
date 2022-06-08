@@ -3,7 +3,7 @@ theunrealzaka/theunrealzaka is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" width="32">
   <a href="https://discord.com/users/816307367011942431"><img alt="Discord - Zaka#6368" title="Discord - Zaka#6368" height="32" width="32" src="https://raw.githubusercontent.com/TheUnrealZaka/TheUnrealZaka/main/assets/discord.svg"></a>
   <a href="https://twitch.tv/zhamdaoui74"><img alt="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/TheUnrealZaka/TheUnrealZaka/main/assets/twitch.svg"></a>
   <a href="https://www.youtube.com/c/TheRealZakariaHamdaoui"><img alt="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/TheUnrealZaka/TheUnrealZaka/main/assets/youtube.svg"></a>
