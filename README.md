@@ -1,5 +1,5 @@
 he/him, java/web/c++/c# dev <br>
-discord: [TheUnrealZaka](https://discord.com/users/1114850055128629350) <br>
+discord: [TheUnrealZaka](https://discord.com/users/1268335382118924406) <br>
 email: [info@theunrealzaka.me](mailto:info@theunrealzaka.me) <br>
 github stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunrealzaka&layout=compact&theme=dark"></p>  
